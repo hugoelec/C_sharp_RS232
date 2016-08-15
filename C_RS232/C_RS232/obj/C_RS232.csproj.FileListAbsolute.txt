@@ -1,0 +1,16 @@
+D:\vc\C_RS232\C_RS232\bin\Debug\C_RS232.exe
+D:\vc\C_RS232\C_RS232\bin\Debug\C_RS232.pdb
+D:\vc\C_RS232\C_RS232\obj\Debug\ResolveAssemblyReference.cache
+D:\vc\C_RS232\C_RS232\obj\Debug\C_RS232.Form1.resources
+D:\vc\C_RS232\C_RS232\obj\Debug\C_RS232.Properties.Resources.resources
+D:\vc\C_RS232\C_RS232\obj\Debug\C_RS232.csproj.GenerateResource.Cache
+D:\vc\C_RS232\C_RS232\obj\Debug\C_RS232.exe
+D:\vc\C_RS232\C_RS232\obj\Debug\C_RS232.pdb
+D:\暫存區\C_RS232\C_RS232\C_RS232\obj\Debug\C_RS232.exe
+D:\暫存區\C_RS232\C_RS232\C_RS232\obj\Debug\C_RS232.pdb
+D:\暫存區\C_RS232\C_RS232\C_RS232\bin\Debug\C_RS232.exe
+D:\暫存區\C_RS232\C_RS232\C_RS232\bin\Debug\C_RS232.pdb
+D:\暫存區\C_RS232\C_RS232\C_RS232\obj\Debug\ResolveAssemblyReference.cache
+D:\暫存區\C_RS232\C_RS232\C_RS232\obj\Debug\C_RS232.Form1.resources
+D:\暫存區\C_RS232\C_RS232\C_RS232\obj\Debug\C_RS232.Properties.Resources.resources
+D:\暫存區\C_RS232\C_RS232\C_RS232\obj\Debug\C_RS232.csproj.GenerateResource.Cache
